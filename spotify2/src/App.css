@@ -1,0 +1,167 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+
+ 
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.logo1{
+ width: 150px;
+ margin-top: 20px;
+ margin-left: 20px;
+}
+.sidebar{
+  height: 620px;
+  width: 250px;
+  background-color: black;
+}
+.home1{
+  width: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: white;
+}
+.text{
+  color: white;
+  margin-top: 35px;
+  margin-left: 20px;
+}
+.home{
+  display: flex;
+}
+.section{
+  margin-top: 10px;
+  display: flex;
+}
+.fav{
+  color: white;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+.font{
+  margin-top: 10px;
+
+}
+.inst{
+  display: flex;
+  margin-top: 20px;
+}
+.page1{
+  display: flex;
+}
+.main{
+  background-color: #202020;
+  width: 100%;
+}
+.icon{
+  height: 35px;
+  margin: 20px;
+}
+.user{
+  height: 30px;
+  margin : 20px;
+  margin-left: 800px;
+}
+.header{
+  display: flex;
+}
+h2{
+  color: white;
+}
+.good{
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.box{
+  background-color: #303030;
+  height: 70px;
+  width: 230px;
+  margin-left: 20px;
+  margin-top: 10px;
+ border-radius: 3px;
+ display: flex;
+ color: white;
+}
+.like{
+  height: 70px;
+}
+.boxes{
+  display: flex;
+}
+.boxes1{
+  display: flex;
+}
+.box1{
+  background-color: #303030;
+  height: 70px;
+  width: 230px;
+  margin-left: 20px;
+  margin-top: 20px;
+ border-radius: 3px;
+ display: flex;
+ color: white;
+}
+.show{
+  margin-top: 30px;
+    margin-left: 20px;
+}
+.box2{
+  background-color: #181818;
+height: 200px;
+width: 160px;
+margin-left: 20px;
+margin-top: 15px;
+color: white;
+}
+.pic{
+  height: 120px;
+  margin: 20px;
+}
+.xyz{
+  margin-left: 15px;
+}
+.txt{
+margin: 20px
+}
+.footer{
+  background-color: #181818;
+  width: 100%;
+  height: 90px;
+}
+.last{
+  height: 50px;
+  margin: 20px;
+}
