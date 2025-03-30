@@ -136,9 +136,9 @@ body {
 }
 
 .user {
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
+  width: 122px;
+  height: 37px;
+
   cursor: pointer;
 }
 
