@@ -42,7 +42,7 @@ function Mainmenu() {
   <img src={box.image} alt={box.text} className='pic' />
   <p className='xyz'>{box.text}</p>
 </div>
-))}
+))} 
 
 </div>
         </div>
